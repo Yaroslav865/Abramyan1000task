@@ -1,5 +1,3 @@
-
-
 def while1(a, b):
     rest = a
     while rest >= b:
